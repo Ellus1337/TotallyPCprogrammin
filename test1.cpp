@@ -7,4 +7,9 @@ int main ()
   cin >> snopp;
   --snopp;
   cout << "haha din snopp är" << snopp << "cm" << endl;
+
+  cout << "hihi" << endl;
+  //ÄNDRING
+
 }
+
